@@ -37,6 +37,9 @@ struct SnapToCenterScrollView: View {
     }
 }
 
+///Packages/com.github.homuler.mediapipe/
+//Packages/com.github.homuler.mediapipe/Runtime/
+
 struct SnapToCenterModifier: ViewModifier {
     @Binding var currentSelection: Int
     let fullViewSize: CGSize
