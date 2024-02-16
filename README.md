@@ -4,7 +4,8 @@
 ## Overlay Selection 
 Three distinct modes are available for content overlay: Planetarium, Hemisphere, and Segmentation. The distinction comes from how the sky night is masked and imposed on top of the real world.
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://drive.google.com/file/d/1QMyGED7GNEPGoZolDdU0QmKA75mfE1An/view?usp=drive_link "Content overlay selection")
+https://github.com/adellari/Stargazer-iOS/assets/13017691/d5ac2ebe-fe35-41f7-a589-b4be5927b98c
+
 
 
 ## Sky Band Composition
